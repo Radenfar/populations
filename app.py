@@ -86,5 +86,5 @@ if __name__ == "__main__":
 
     write_string = build(population)[:-1]
 
-    with open("test.txt", 'w') as f:
+    with open("result.txt", 'w') as f:
         f.write(write_string)
