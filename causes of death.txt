@@ -1,0 +1,23 @@
+Arrhythmias
+Heart Failure
+Old Age
+Coronary Artery Disease
+Rheumatic Heart Disease
+Vascular Disease
+Cardiovascular Disease
+Kidney Cancer
+Liver Cancer
+Lung Cancer
+Cancer
+Pancreatic Cancer
+Accident
+War Casualty
+Stroke
+Alzheimers
+Drowning
+Heart Attack
+Diabetes
+Influenza
+Pneumonia
+Injury
+Animal Bite
